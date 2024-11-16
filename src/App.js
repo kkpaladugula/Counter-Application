@@ -1,11 +1,11 @@
 import React from "react";
-import Nasa from "./NasaProject/Nasa.js"
+import Counter from "./CounterApplication/Counter.js"
 
 const App = () => {
 
     return(
         <>
-        <Nasa/>
+        <Counter/>
         </>
     )
 
